@@ -17,5 +17,5 @@
 ### 6. После этого запуститься сборка mdbook
 ![img5.png](img/img5.png)
 ### 7. Вернитесь в pages и там будет ссылка на размещенный mdbook
-Она будет вида https://[github_user_name].github.io/system-engineering-playbook/
+Она будет такого вида: https://[github_user_name].github.io/system-engineering-playbook/
 ![img6.png](img/img6.png)
